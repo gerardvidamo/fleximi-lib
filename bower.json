@@ -1,0 +1,15 @@
+{
+  "name": "fleximi-lib",
+  "version": "1.0",
+  "description": "Fleximi.Module.Theme Library",
+  "keywords": [
+    "css",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "/*",
+    "!/js",
+    "!/css"
+  ]
+}
